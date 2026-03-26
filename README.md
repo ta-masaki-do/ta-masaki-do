@@ -189,56 +189,56 @@
 # すべての職務経歴(上記の「直近の主要プロジェクト」を含む)
 
 **転職エージェントサービスの運用**
-期間: 2024/12〜2026/03（1年4ヶ月）
-概要: 転職者の会員登録・Salesforce連携・Slack通知機能を備えたウェブサービスの改修・保守運用
-技術: AWS ECS・S3 / Docker / MySQL / Linux / Terraform / TypeScript / Nuxt.js / GitHub / GitHub Actions / Salesforce / Slack / Google Sheets / immedio / Sentry
+期間: 2024/12〜2026/03（1年4ヶ月）  
+概要: 転職者の会員登録・Salesforce連携・Slack通知機能を備えたウェブサービスの改修・保守運用  
+技術: AWS ECS・S3 / Docker / MySQL / Linux / Terraform / TypeScript / Nuxt.js / GitHub / GitHub Actions / Salesforce / Slack / Google Sheets / immedio / Sentry  
 
 **転職サービスの運用**
-期間: 2024/12〜2025/08（9ヶ月）
-概要: 求人応募・企業面談・スカウト機能を備えた転職ウェブアプリケーションの改修・保守運用
-技術: AWS ECS・S3 / Docker / MySQL / Linux / Terraform / Ruby / Ruby on Rails / TypeScript / Next.js / GitHub / GitHub Actions / Sentry / JIRA
+期間: 2024/12〜2025/08（9ヶ月）  
+概要: 求人応募・企業面談・スカウト機能を備えた転職ウェブアプリケーションの改修・保守運用  
+技術: AWS ECS・S3 / Docker / MySQL / Linux / Terraform / Ruby / Ruby on Rails / TypeScript / Next.js / GitHub / GitHub Actions / Sentry / JIRA  
 
 **企業向けバックオフィスツール開発**
-期間: 2024/09〜2024/11（3ヶ月）
-概要: 企業向けバックオフィスツール開発
-技術: Heroku / Ruby / Ruby on Rails / TypeScript / Next.js / GitHub / GitHub Actions
+期間: 2024/09〜2024/11（3ヶ月）  
+概要: 企業向けバックオフィスツール開発  
+技術: Heroku / Ruby / Ruby on Rails / TypeScript / Next.js / GitHub / GitHub Actions  
 
 **電子お薬手帳**
-期間: 2021/07〜2024/08（3年2ヶ月）
-概要: 医療DX領域のPHR(パーソナルヘルスレコード)アプリ。お薬手帳・バイタルデータ管理・処方箋連携機能の新規開発から運用・保守まで一貫して担当
-技術: AWS ECS・S3 / Linux / MySQL / Docker / Firebase Cloud Messaging / PHP / Laravel / TypeScript / Next.js / GitHub / GitHub Actions / Swagger / Backlog
+期間: 2021/07〜2024/08（3年2ヶ月）  
+概要: 医療DX領域のPHR(パーソナルヘルスレコード)アプリ。お薬手帳・バイタルデータ管理・処方箋連携機能の新規開発から運用・保守まで一貫して担当  
+技術: AWS ECS・S3 / Linux / MySQL / Docker / Firebase Cloud Messaging / PHP / Laravel / TypeScript / Next.js / GitHub / GitHub Actions / Swagger / Backlog  
 
 **工場のマシン稼働状況管理ウェブアプリケーション**
-期間: 2020/05〜2020/11（7ヶ月）
-概要: 工場のマシン稼働状況を可視化するWebアプリケーション開発
-技術: Linux / MySQL / Docker / nginx / PHP / JavaScript / Laravel
+期間: 2020/05〜2020/11（7ヶ月）  
+概要: 工場のマシン稼働状況を可視化するWebアプリケーション開発  
+技術: Linux / MySQL / Docker / nginx / PHP / JavaScript / Laravel  
 
 **公園の案内スマートフォンアプリ**
-期間: 2020/03〜2020/07（5ヶ月）
-概要: iOS / Android対応の公園案内用スマートフォンアプリ開発
-技術: Android Studio / Xcode / JavaScript / React Native
+期間: 2020/03〜2020/07（5ヶ月）  
+概要: iOS / Android対応の公園案内用スマートフォンアプリ開発  
+技術: Android Studio / Xcode / JavaScript / React Native  
 
 **ガスの依頼会社・卸先業者コミュニケーションWebアプリ**
-期間: 2018/12〜2019/03（4ヶ月）
-概要: 取引先間のコミュニケーションWebアプリ開発
-技術: Linux / MySQL / Docker / PHP / Laravel / JavaScript 
+期間: 2018/12〜2019/03（4ヶ月）  
+概要: 取引先間のコミュニケーションWebアプリ開発  
+技術: Linux / MySQL / Docker / PHP / Laravel / JavaScript   
 
 **工作機営業ツール**
-期間: 2018/07〜2021/06（3年）
-概要: 工作機営業用ウェブアプリケーションの新規開発・機能追加・保守。3年の長期プロジェクト
-技術: AWS EC2 / S3 / Linux / Docker / PHP / Laravel / JavaScript / Vue.js / GitHub / Swagger / Backlog
+期間: 2018/07〜2021/06（3年）  
+概要: 工作機営業用ウェブアプリケーションの新規開発・機能追加・保守。3年の長期プロジェクト  
+技術: AWS EC2 / S3 / Linux / Docker / PHP / Laravel / JavaScript / Vue.js / GitHub / Swagger / Backlog  
 
 **案件管理システムの改修**
-期間: 2018/05〜2018/06（2ヶ月）
-概要: 既存案件管理システムの改修
-技術: Linux / MySQL / PHP / Zend Framework / JavaScript
+期間: 2018/05〜2018/06（2ヶ月）  
+概要: 既存案件管理システムの改修  
+技術: Linux / MySQL / PHP / Zend Framework / JavaScript  
 
 **ネット航空券発行システムの保守**
-期間: 2017/09〜2018/04（8ヶ月）
-概要: 大規模航空券発行システムの保守運用
-技術: Java
+期間: 2017/09〜2018/04（8ヶ月）  
+概要: 大規模航空券発行システムの保守運用  
+技術: Java  
 
 **自動36協定遵守検査システム**
-期間: 2017/06〜2017/08（3ヶ月）
-概要: 労働時間管理システムの開発
-技術: Google Apps Script / JavaScript
+期間: 2017/06〜2017/08（3ヶ月）  
+概要: 労働時間管理システムの開発  
+技術: Google Apps Script / JavaScript  
